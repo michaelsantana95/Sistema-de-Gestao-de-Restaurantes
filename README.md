@@ -39,5 +39,3 @@ Neste projeto, os alunos terão a oportunidade de aplicar os seguintes conceitos
 - **Listas:** As informações sobre restaurantes e seus cardápios serão armazenadas em listas, permitindo a manipulação e organização dos dados.
 
 - **Funções:** Os alunos criarão funções para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes, editar cardápios, entre outras.
-
-Este projeto oferece uma oportunidade prática para consolidar o aprendizado dos conceitos fundamentais de programação em Python. Além disso, os alunos podem expandir o projeto com funcionalidades adicionais, como a integração de um sistema de pedidos online, cálculos de custos ou a implementação de uma interface gráfica para uma experiência mais interativa. O resultado final é um projeto que pode ser destacado em seus portfólios, demonstrando suas habilidades na criação de aplicativos Python do mundo real.
