@@ -6,7 +6,7 @@ Participantes:
 - Michael Santana
  
 
-# Projeto: Sistema de Gestão de Restaurantes
+# Sistema de Gestão de Restaurantes
 
 ## Curso Vem Ser Tech - Dados
 
@@ -31,19 +31,16 @@ O sistema oferece as seguintes funcionalidades:
    - Os usuários podem visualizar a lista de todos os restaurantes registrados na plataforma, incluindo seus detalhes.
    - Para cada restaurante, é possível visualizar o cardápio completo, listando os alimentos disponíveis e seus preços.
 
-4. **Funcionalidades Adicionais (Opcionais):**
-   - Os alunos são encorajados a aprimorar o projeto com funcionalidades adicionais, como a capacidade de buscar restaurantes por nome ou endereço, calcular o tempo médio de entrega, ou criar uma interface de linha de comando mais amigável.
+## Conceitos Aplicados na Conclusão do Projeto
 
-## Conclusão do Projeto com os Conceitos Principais Aplicados
+Neste projeto, foi aplicado os seguintes conceitos principais de programação em Python:
 
-Neste projeto, os alunos terão a oportunidade de aplicar os seguintes conceitos principais de programação em Python:
+- **Variáveis:** Variáveis para armazenar informações sobre restaurantes, seus cardápios e outros dados relevantes.
 
-- **Variáveis:** Os alunos usarão variáveis para armazenar informações sobre restaurantes, seus cardápios e outros dados relevantes.
+- **Estruturas Condicionais:** Estruturas condicionais para permitir a tomada de decisões, como verificar se um restaurante ou item do cardápio existe ou se o usuário deseja realizar ações específicas.
 
-- **Estruturas Condicionais:** Serão necessárias estruturas condicionais para permitir a tomada de decisões, como verificar se um restaurante ou item do cardápio existe ou se o usuário deseja realizar ações específicas.
+- **Estruturas de Repetição:** Para facilitar a gestão de múltiplos restaurantes e itens de cardápio, foram utilizadas estruturas de repetição para percorrer listas e realizar ações em lote.
 
-- **Estruturas de Repetição:** Para facilitar a gestão de múltiplos restaurantes e itens de cardápio, os alunos usarão estruturas de repetição para percorrer listas e realizar ações em lote.
+- **Listas:** As informações sobre restaurantes e seus cardápios foram armazenadas em listas, permitindo a manipulação e organização dos dados.
 
-- **Listas:** As informações sobre restaurantes e seus cardápios serão armazenadas em listas, permitindo a manipulação e organização dos dados.
-
-- **Funções:** Os alunos criarão funções para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes, editar cardápios, entre outras.
+- **Funções:** Funções para organizar o código e torná-lo mais modular e reutilizável, como funções para adicionar restaurantes, editar cardápios, entre outras.
