@@ -2,6 +2,7 @@ Participantes:
 - Ana Helena Sassi Meinschmiedt
 - Alessandra Conceição Santiago Guimarães
 - Brenda Flávia de Azeredo
+- Enzo de Arruda Santos Scalassara
 - Michael Santana
  
 
