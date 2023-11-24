@@ -4,13 +4,12 @@ Participantes:
 - Brenda Flávia de Azeredo
 - Enzo de Arruda Santos Scalassara
 - Michael Santana
-- Thomaz Melo Cruz Neto
 
-# Sistema de Gestão de Restaurantes (Utilizando CRUD em JSON)
+# Sistema de Gestão de Restaurantes
 
 ## Curso Vem Ser Tech - Dados
 
-## Projeto do Módulo: Lógica de Programação II
+## Projeto do Módulo: Lógica de Programação I
 
 O projeto "Sistema de Gestão de Restaurantes" é uma aplicação em Python que permite a gestão de restaurantes em uma plataforma. Com esta ferramenta, os usuários podem adicionar, editar ou remover restaurantes, bem como gerenciar os menus de cada restaurante, incluindo o nome dos alimentos e seus preços. Este projeto foi desenvolvido com o objetivo de fornecer aos alunos um caso de uso real e prático, permitindo-lhes aplicar os conceitos básicos de programação que aprenderam, como variáveis, estruturas condicionais, estruturas de repetição, listas e funções.
 
